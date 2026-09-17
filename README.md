@@ -1,3 +1,8 @@
+<h2 align="center">Have a look at the key clinical risk factor of Predictive Heart Disease Analysis</h2>
+<p align="Center">
+  <img src="Images/Risk_Factor.png" alt="Risk Factor Preview" height="400" width="800">
+</p>
+
 # Heart Disease Prediction
 
 A Machine Learning project focused on analyzing clinical data and building predictive models to detect the presence of heart disease in patients.
