@@ -94,6 +94,11 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
    - Training multiple classification algorithms (e.g., Logistic Regression, Random Forest, Support Vector Machines, KNN).
    - Metrics evaluated include Accuracy, Precision, Recall, F1-Score, and ROC-AUC curves.
 
+<p align="Center">
+  <img src="Images/End To End Pipeline Architecture .png" alt="Risk Factor Preview" height="400" width="800">
+</p>
+
+
 ---
 
 ## 📈 Results & Future Enhancements
